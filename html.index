@@ -13,6 +13,7 @@
             color: #333;
             /* Added background image directly */
             background-image: url('https://images.unsplash.com/photo-1510771463146-e89e6e86560e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGN1dGUlMjBkb2clMjBydW5uaW5nJTIwaGFwaWx5JTIwaW4lMjBwYXJrfGVufDB8fDB8fHww');
+
             background-size: cover;
             background-position: center;
             color: white;
