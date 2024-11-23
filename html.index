@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Treats for Paws and People</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            background-image: url('https://images.unsplash.com/photo-1510771463146-e89e6e86560e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGN1dGUlMjBkb2clMjBydW5uaW5nJTIwaGFwaWx5JTIwaW4lMjBwYXJrfGVufDB8fDB8fHww');
+            background-size: cover;
+            background-position: center;
+            color: white; /* Makes text easier to read on the background */
+        }
+        header {
+            background-color: rgba(248, 166, 212, 0.8); /* Slight transparency */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.7); /* Slight white background to enhance readability */
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .photo {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .mission, .values {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .values ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .values ul li {
+            padding: 10px 0;
+            font-size: 18px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: rgba(248, 166, 212, 0.8);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Us - Treats for Paws and People</h1>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Who We Are</h2>
+            <p>We are a small local business dedicated to creating fun, healthy, and delicious treats for both humans and their furry companions! Our mission is to bring joy and tasty moments to you and your dog with treats that both you and your dog can enjoy together.</p>
+        </section>
+
+        <section>
+            <h2>How We Got Started</h2>
+            <p>It all started with a simple idea—what if dogs and humans could share a treat together? After lots of testing and tasting, we created treats that are safe for dogs and delicious for humans, too! Now, we want to share them with you.</p>
+        </section>
+
+        <section>
+            <h2>Our Treats</h2>
+            <p>We use only the finest ingredients, carefully selected to ensure that both dogs and humans can enjoy them safely. Whether you’re enjoying a stroll in the park with your dog or just relaxing at home, our treats are the perfect snack for everyone!</p>
+        </section>
+
+        <section class="mission">
+            <h2>Our Mission</h2>
+            <p>We believe that sharing moments with your dog should be fun and rewarding. Our treats help create those special moments and bring people and their pets closer together.</p>
+        </section>
+
+        <section class="values">
+            <h2>Our Values</h2>
+            <ul>
+                <li><strong>Quality:</strong> Only the best ingredients for you and your dog.</li>
+                <li><strong>Trust:</strong> We promise our treats are safe, tasty, and made with love.</li>
+                <li><strong>Community:</strong> We love being part of our local community and sharing moments with you and your pets.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>The Team</h2>
+            <p>Meet [Your Name], the founder, and our team of treat makers! We’re passionate about what we do and are committed to providing you and your pets with the best snacks.</p>
+        </section>
+
+        <section>
+            <h2>Stay Connected</h2>
+            <p>Want to try our treats? Visit us at the park or order online through our website. Don’t forget to scan the QR code for the latest updates and special offers!</p>
+        </section>
+        
+        <img src="your-photo-url.jpg" alt="Team photo or dog photo" class="photo">
+    </div>
+
+    <footer>
+        <p>© 2024 Treats for Paws and People. All rights reserved.</p>
+    </footer>
+</body>
+</html>
