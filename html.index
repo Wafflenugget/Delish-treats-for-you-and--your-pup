@@ -11,13 +11,14 @@
             padding: 0;
             background-color: #f4f4f4;
             color: #333;
+            /* Added background image directly */
             background-image: url('https://images.unsplash.com/photo-1510771463146-e89e6e86560e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGN1dGUlMjBkb2clMjBydW5uaW5nJTIwaGFwaWx5JTIwaW4lMjBwYXJrfGVufDB8fDB8fHww');
             background-size: cover;
             background-position: center;
-            color: white; /* Makes text easier to read on the background */
+            color: white;
         }
         header {
-            background-color: rgba(248, 166, 212, 0.8); /* Slight transparency */
+            background-color: rgba(248, 166, 212, 0.8);
             color: white;
             padding: 20px;
             text-align: center;
@@ -26,7 +27,7 @@
             max-width: 1200px;
             margin: 20px auto;
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.7); /* Slight white background to enhance readability */
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background for readability */
             border-radius: 10px;
         }
         h1 {
